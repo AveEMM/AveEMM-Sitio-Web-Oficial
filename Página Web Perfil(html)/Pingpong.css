@@ -20,3 +20,21 @@ body {
 .color { 
     color: white;
 }
+
+.red {
+    color: red;
+}
+
+#boton {
+    border: 5px solid black;
+    width: 400px;
+    height: 75px;
+    background: linear-gradient(
+    to left,
+    rgb(0, 181, 253),
+    rgb(0, 118, 253),
+    rgb(0, 90, 194),
+    rgb(0, 49, 141),
+    rgb(0, 25, 95)
+    );
+}
