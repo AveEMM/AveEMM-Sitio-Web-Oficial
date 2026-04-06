@@ -1,0 +1,57 @@
+html, body {
+    margin-top: 0.2%;
+    padding: 0px;
+}
+
+body {
+    background-attachment: fixed;
+    background: linear-gradient(
+        to bottom,
+        rgb(22, 22, 22),
+        rgb(29, 29, 29),
+        rgb(49, 49, 49),
+        rgb(71, 71, 71)
+    );
+}
+
+.titulo {
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center;
+    color: greenyellow;
+    background-color: green;
+}
+
+.html {
+    margin-left: 13%;
+    color: black;
+    background-color: #E34F26;
+}
+
+.center{
+    align-items: center;
+    text-align: center;
+}
+
+.Boton {
+    color: white;
+    background-color: rgba(0, 255, 85, 0.096);
+    border: 5px double rgb(0, 0, 0);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(60, 225, 0);
+    text-shadow: 0 0 10px rgb(60, 225, 0);
+    width: 305px;
+    height: 60px;
+    margin-right: 55px;
+}
+
+.python {
+    margin-left: 13%;
+    color: black;
+    background-color: #306998;
+}
+
+.imagen {
+    border: 5px solid black;
+    margin-right: 50px;
+}
